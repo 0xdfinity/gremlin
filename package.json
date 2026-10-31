@@ -1,0 +1,1 @@
+{"name":"streak-gremlin","version":"1.0.0","type":"commonjs","scripts":{"build":"tsc -p tsconfig.json","test":"npm run build && node test.cjs && node sim.cjs --check"},"dependencies":{"near-sdk-js":"file:../near-sdk-js-2.0.0.tgz"},"devDependencies":{"typescript":"^5.7.3"}}
